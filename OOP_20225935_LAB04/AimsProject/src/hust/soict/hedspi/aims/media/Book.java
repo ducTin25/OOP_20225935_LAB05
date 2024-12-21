@@ -1,6 +1,3 @@
-//Do Gia Huy
-//20215060
-//Class "Book" extend "Media"
 package hust.soict.hedspi.aims.media;
 import java.util.ArrayList;
 import java.util.List;
